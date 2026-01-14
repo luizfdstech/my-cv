@@ -91,16 +91,18 @@ Platform Engineer & SRE especializado em arquitetura Multicloud (Azure, AWS, GCP
 
 ---
 
-### Principais Certificações & Cursos
+### Certificações
 
-| Certificado | Instituição | Verificação |
-| :--- | :--- | :---: |
-| **Formação Completa: Azure DevOps Engineer Expert (Trilha) AZ-400)** | Microsoft | [Exibir](SEU_LINK_AQUI) |
-| **Getting Started with AWS Cloud Essentials** | Amazon Web Services | [Exibir](https://skillbuilder.aws/d506045f-2ddd-48bc-8c7e-cf7d5201ac2d) |
-| **Amazon EKS Primer** | Amazon Web Services | [Exibir](https://skillbuilder.aws/a6da66b7-2e5f-40bf-a0dd-62bb0b953c46) |
-| **AWS Security Fundamentals Second Edition** | Amazon Web Services | [Exibir](https://skillbuilder.aws/9c970c87-a6c2-4ee2-bed1-9210bfdff6c6) |
-| **Introduction to AWS Lambda** | Amazon Web Services| [Exibir](https://skillbuilder.aws/969af590-085d-42b5-bdcb-cc1349b4d7bd) |
-| **Google Cloud Computing Foundations: Infrastructure in Google Cloud** | Google Cloud  | [Exibir](https://www.skills.google/course_templates/153/documents/604749?locale=pt_BR) |
+**Azure**
+* <img src="https://img.shields.io/badge/-AZ--400-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="18"> **DevOps Engineer Expert** (Trilha Completa)
+  
+**Amazon Web Services (AWS)**
+* <img src="https://img.shields.io/badge/AWS-Cloud_Essentials-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="18"> **Cloud Essentials** | **Security Fundamentals** <img src="https://img.shields.io/badge/AWS-Security-FF9900?style=flat-square&logo=amazonguardduty&logoColor=white" height="18">
+* <img src="https://img.shields.io/badge/AWS-EKS_Primer-FF9900?style=flat-square&logo=amazoneks&logoColor=white" height="18"> **EKS Primer** | **Lambda Foundations** <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" height="18">
+
+**Google Cloud Platform (GCP)**
+* <img src="https://img.shields.io/badge/GCP-Cloud_Foundations-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="18"> **Google Cloud Computing Foundations**
+* <img src="https://img.shields.io/badge/GCP-Infrastructure-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="18"> **Infrastructure in Google Cloud**
 
 ---
 
