@@ -16,21 +16,21 @@
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
 </a>
       </p>
-      <p>São Paulo, Brasil (Remoto)</p>
+      <p>São Paulo, Brazil (Remote)</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### Resumo Profissional
-Platform Engineer & SRE especializado em arquitetura Multicloud (Azure, AWS, GCP). Experiência consolidada em Kubernetes, IaC e cultura DevSecOps (SAST/SCA). Foco estratégico em FinOps, Observabilidade e automação via AIOps para otimização de custos e resiliência de sistemas.
+### Professional Summary
+Platform Engineer & SRE specialized in Multicloud architectures (Azure, AWS, GCP). Extensive experience in Kubernetes, IaC, and DevSecOps (SAST/SCA). Focused on FinOps, Observability, and AIOps automation to drive cost efficiency and system resilience.
 
 ---
 
-### Tech Stack Completa & Ferramentas
+### Core Tech Stack & Tools
 
-#### Dev, Backend & Dados
+#### Dev, Backend & Data
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -62,7 +62,7 @@ Platform Engineer & SRE especializado em arquitetura Multicloud (Azure, AWS, GCP
   <img src="https://img.shields.io/badge/argo_cd-%23ef7b4d?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
 </p>
 
-#### Observabilidade & Ops
+#### Observability & Ops
 <p align="left">
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/prometheus-e64415?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
@@ -75,26 +75,26 @@ Platform Engineer & SRE especializado em arquitetura Multicloud (Azure, AWS, GCP
 
 ---
 
-### Experiência Profissional
+### Professional Experience
 
-#### **[Microsoft]** *Analista de Infraestrutura | Cloud (Azure/M365)* | [04/2025] – [12/2025]
+#### **[Microsoft]** *Infrastructure Analyst | Cloud (Azure/M365)* | [04/2025] – [12/2025]
 
-* Administração de ambientes críticos (Azure/M365) com 99.9% de disponibilidade. Liderança em automação via PowerShell, reduzindo em 40% o tempo operacional de IAM, e implementação de pipelines CI/CD (GitHub Actions) com foco em QA e segurança do código.
+* Managing mission-critical environments (Azure/M365) with 99.9% availability. Led PowerShell automation initiatives that reduced IAM operational overhead by 40%, and implemented CI/CD pipelines (GitHub Actions) focused on QA and code security.
+  
+---
+
+### Education
+
+**B.S. in [Software Engineering]** *[Anhanguera]* • [2025] — [In Progress]
+
+> **Foundations in Distributed Systems (scalability/availability), Networking (TCP/IP/DNS), Operating Systems (Linux Kernel), and Microservices Architecture**
 
 ---
 
-### Formação Acadêmica
-
-**Bacharelado em [Engenharia de Software]** *[Anhanguera]* • [2025] — [Em andamento]
-
-> **Fundamentos em Sistemas Distribuídos (escalabilidade/disponibilidade), Redes (TCP/IP/DNS), Sistemas Operacionais (Kernels/Linux) e Arquitetura de Microserviços.**
-
----
-
-### Certificações
+### Certifications
 
 **Azure**
-* <img src="https://img.shields.io/badge/-AZ--400-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="18"> **DevOps Engineer Expert** (Trilha Completa)
+* <img src="https://img.shields.io/badge/-AZ--400-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="18"> **DevOps Engineer Expert** (Full Learning Path)
   
 **Amazon Web Services (AWS)**
 * <img src="https://img.shields.io/badge/AWS-Cloud_Essentials-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="18"> **Cloud Essentials** | **Security Fundamentals** <img src="https://img.shields.io/badge/AWS-Security-FF9900?style=flat-square&logo=amazonguardduty&logoColor=white" height="18">
@@ -106,5 +106,5 @@ Platform Engineer & SRE especializado em arquitetura Multicloud (Azure, AWS, GCP
 
 ---
 
-### Idiomas
-* **Inglês:** (B2 - Proficiente) | **Espanhol:** (Básico) | **Português:** (Nativo)
+### Languages
+* **English: (B2 - Upper Intermediate)** | **Spanish:** (Elementary) | **Portuguese:** (Native)
