@@ -1,22 +1,28 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0078D4&height=120&section=header&text=Luiz%20Francisco%20Da%20Silva&fontSize=40&fontAlignY=40&fontColor=000000&desc=DevOps%20Engineer%20|%20Cloud%20Infrastructure%20|%20Site%20Reliability%20Engineering%20(SRE)&descSize=18&descAlignY=65" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/SEU_NUMERO">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="top">
+      <h1>Luiz Francisco da Silva</h1>
+      <p><b>DevOps Engineer | Cloud Infrastructure | Security & Compliance (DevSecOps) | Site Reliability Engineering (SRE) | Multicloud: Azure, AWS, GCP</b></p>
+    </td>
+    <td align="right" valign="top">
+      <p>
+        <a href="https://linkedin.com/in/franciscocloud"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+        <a href="chicoayodele@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" /></a>
+        <a href="https://wa.me/+5511990203044"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+       <a href="https://github.com/ChicoAyo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/32021127">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
+</a>
+      </p>
+      <p>São Paulo, Brasil (Remoto)</p>
+    </td>
+  </tr>
+</table>
 
 ---
+
 ## Resumo Profissional
 
 **Platform Engineer** & **SRE** com expertise em arquitetura **Multicloud** (Azure, AWS, GCP). Especialista em **IaC** e orquestração de containers com **Kubernetes** (AKS, EKS, GKE), unindo agilidade **DevOps** à resiliência do **SRE**. Referência em **DevSecOps**, integrando segurança avançada **(SAST, SCA, Secret Scanning)** e **IAM** ao ciclo de vida de desenvolvimento. Pioneiro na adoção de **AIOps**, **Observabilidade** e **FinOps** para automação de incidentes e eficiência de custos.
@@ -28,6 +34,7 @@
 ### Linguagens & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
@@ -77,9 +84,9 @@
 
 ---
 
-## EXPERIÊNCIA PROFISSIONAL
+## Experiência Profissional
 
-### **[Microsoft]** *Analista de Suporte / Infraestrutura* | [04/2025] – [12/2025]
+### **[Microsoft]** *Analista de Infraestrutura | Cloud (Azure/M365)* | [04/2025] – [12/2025]
 
 * Administração de ambientes críticos em **Microsoft Azure** e **M365**, garantindo 99.9% de disponibilidade dos serviços.
 * Desenvolvimento de **scripts em PowerShell** para automatizar a criação de utilizadores e gestão de permissões, reduzindo o tempo de execução em 40%.
@@ -88,24 +95,31 @@
 
 ---
 
-## 🎓 EDUCAÇÃO
-* **[Nome da Licenciatura/Curso]** – [Nome da Instituição] | [Ano de Conclusão]
-* **Formação DevOps & Cloud Computing** – [Entidade, ex: Microsoft/Alura]
+## Formação Acadêmica
+
+**Bacharelado em [Engenharia de Software]** *[Anhanguera]* • [2025] — [Em andamento]
+
+> **Foco em Engenharia e Infraestrutura:**
+> Durante a graduação, selecionei trilhas e disciplinas que fundamentam minha atuação em Cloud e automação, com destaque para:
+> * **Sistemas Distribuídos:** Conceitos de escalabilidade e disponibilidade.
+> * **Redes de Computadores:** Protocolos TCP/IP, DNS e segurança de rede.
+> * **Sistemas Operacionais:** Gerenciamento de processos e kernels (essencial para Linux/Docker).
+> * **Arquitetura de Software:** Padrões de microserviços e comunicação assíncrona.
 
 ---
 
-## 🎓 Principais Certificações & Cursos
+## Principais Certificações & Cursos
 
 | Certificado | Instituição | Verificação |
 | :--- | :--- | :---: |
-| **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft | [Exibir](SEU_LINK_AQUI) |
-| **AWS Cloud Practitioner** | Amazon Web Services | [Exibir](SEU_LINK_AQUI) |
-| **Google Cloud Digital Leader** | Google Cloud | [Exibir](SEU_LINK_AQUI) |
-| **Grafana Observability Professional** | Grafana Labs | [Exibir](SEU_LINK_AQUI) |
-| **Python for Data Science & SRE** | Alura / Udemy | [Exibir](SEU_LINK_AQUI) |
+| **Formação Completa: Azure DevOps Engineer Expert (Trilha) AZ-400)** | Microsoft | [Exibir](SEU_LINK_AQUI) |
+| **Getting Started with AWS Cloud Essentials** | Amazon Web Services | [Exibir](https://skillbuilder.aws/d506045f-2ddd-48bc-8c7e-cf7d5201ac2d) |
+| **Amazon EKS Primer** | Amazon Web Services | [Exibir](https://skillbuilder.aws/a6da66b7-2e5f-40bf-a0dd-62bb0b953c46) |
+| **AWS Security Fundamentals Second Edition** | Amazon Web Services | [Exibir](https://skillbuilder.aws/9c970c87-a6c2-4ee2-bed1-9210bfdff6c6) |
+| **Introduction to AWS Lambda** | Amazon Web Services| [Exibir](https://skillbuilder.aws/969af590-085d-42b5-bdcb-cc1349b4d7bd) |
+| **Google Cloud Computing Foundations: Infrastructure in Google Cloud** | Google Cloud  | [Exibir](https://www.skills.google/course_templates/153/documents/604749?locale=pt_BR) |
 
 ---
 
-## 🚀 PROJETOS EM DESTAQUE
-* **Automação de Infra-as-Code (IaC):** Criação de templates (Bicep/Terraform) para provisionamento automático de recursos no Azure.
-* **Pipeline de Segurança:** Configuração de um workflow no GitHub Actions que integra scans de segurança (SAST) automáticos a cada Pull Request.
+## Idiomas
+* **Inglês:** (B2 - Proficiente) | **Espanhol:** (Básico) | **Português:** (Nativo)
