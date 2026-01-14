@@ -2,9 +2,9 @@
   <tr>
     <td align="left" valign="top">
       <h1>Luiz Francisco da Silva</h1>
-      <p><b>DevOps Engineer | Cloud Infrastructure | Security & Compliance (DevSecOps) | Site Reliability Engineering (SRE) | Multicloud: Azure, AWS, GCP</b></p>
+      <p><b>DevOps Engineer | Security & Compliance (DevSecOps) | SRE</b></p>
     </td>
-    <td align="right" valign="top">
+    <td align="center" valign="bottom">
       <p>
         <a href="https://linkedin.com/in/franciscocloud"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
         <a href="chicoayodele@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" /></a>
@@ -23,15 +23,14 @@
 
 ---
 
-## Resumo Profissional
-
-**Platform Engineer** & **SRE** com expertise em arquitetura **Multicloud** (Azure, AWS, GCP). Especialista em **IaC** e orquestração de containers com **Kubernetes** (AKS, EKS, GKE), unindo agilidade **DevOps** à resiliência do **SRE**. Referência em **DevSecOps**, integrando segurança avançada **(SAST, SCA, Secret Scanning)** e **IAM** ao ciclo de vida de desenvolvimento. Pioneiro na adoção de **AIOps**, **Observabilidade** e **FinOps** para automação de incidentes e eficiência de custos.
+### Resumo Profissional
+Platform Engineer & SRE especializado em arquitetura Multicloud (Azure, AWS, GCP). Experiência consolidada em Kubernetes, IaC e cultura DevSecOps (SAST/SCA). Foco estratégico em FinOps, Observabilidade e automação via AIOps para otimização de custos e resiliência de sistemas.
 
 ---
 
-## Tech Stack Completa & Ferramentas
+### Tech Stack Completa & Ferramentas
 
-### Linguagens & Backend
+#### Linguagens & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -42,7 +41,7 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
-### Cloud & Infraestrutura (Multi-Cloud)
+#### Cloud & Infraestrutura (Multi-Cloud)
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -54,7 +53,7 @@
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### Observabilidade & Logging
+#### Observabilidade & Logging
 <p align="left">
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/prometheus-e64415?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
@@ -65,7 +64,7 @@
   <img src="https://img.shields.io/badge/OpenTelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OTEL" />
 </p>
 
-### CI/CD & Automação
+#### CI/CD & Automação
 <p align="left">
   <img src="https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GH Actions" />
   <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
@@ -73,7 +72,7 @@
   <img src="https://img.shields.io/badge/argo_cd-%23ef7b4d?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
 </p>
 
-### Dados & Cache
+#### Dados & Cache
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -84,31 +83,23 @@
 
 ---
 
-## Experiência Profissional
+### Experiência Profissional
 
-### **[Microsoft]** *Analista de Infraestrutura | Cloud (Azure/M365)* | [04/2025] – [12/2025]
+#### **[Microsoft]** *Analista de Infraestrutura | Cloud (Azure/M365)* | [04/2025] – [12/2025]
 
-* Administração de ambientes críticos em **Microsoft Azure** e **M365**, garantindo 99.9% de disponibilidade dos serviços.
-* Desenvolvimento de **scripts em PowerShell** para automatizar a criação de utilizadores e gestão de permissões, reduzindo o tempo de execução em 40%.
-* Implementação de rotinas de **QA** para validação de novas funcionalidades em sistemas internos antes do deploy em produção.
-* Colaboração com a equipa de desenvolvimento para estruturar **pipelines de CI/CD** (GitHub Actions), focando na segurança e integridade do código.
+* Administração de ambientes críticos (Azure/M365) com 99.9% de disponibilidade. Liderança em automação via PowerShell, reduzindo em 40% o tempo operacional de IAM, e implementação de pipelines CI/CD (GitHub Actions) com foco em QA e segurança do código.
 
 ---
 
-## Formação Acadêmica
+### Formação Acadêmica
 
 **Bacharelado em [Engenharia de Software]** *[Anhanguera]* • [2025] — [Em andamento]
 
-> **Foco em Engenharia e Infraestrutura:**
-> Durante a graduação, selecionei trilhas e disciplinas que fundamentam minha atuação em Cloud e automação, com destaque para:
-> * **Sistemas Distribuídos:** Conceitos de escalabilidade e disponibilidade.
-> * **Redes de Computadores:** Protocolos TCP/IP, DNS e segurança de rede.
-> * **Sistemas Operacionais:** Gerenciamento de processos e kernels (essencial para Linux/Docker).
-> * **Arquitetura de Software:** Padrões de microserviços e comunicação assíncrona.
+> **Fundamentos em Sistemas Distribuídos (escalabilidade/disponibilidade), Redes (TCP/IP/DNS), Sistemas Operacionais (Kernels/Linux) e Arquitetura de Microserviços.**
 
 ---
 
-## Principais Certificações & Cursos
+### Principais Certificações & Cursos
 
 | Certificado | Instituição | Verificação |
 | :--- | :--- | :---: |
@@ -121,5 +112,5 @@
 
 ---
 
-## Idiomas
+### Idiomas
 * **Inglês:** (B2 - Proficiente) | **Espanhol:** (Básico) | **Português:** (Nativo)
