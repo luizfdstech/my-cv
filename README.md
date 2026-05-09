@@ -1,40 +1,52 @@
-# Luiz Francisco da Silva | **Site Reliability Engineer & Platform Engineer**
-`São Paulo, Brazil` • [E-mail](mailto:luizfds.tech@gmail.com) • [LinkedIn](https://linkedin.com/in/lfdsilva) • [GitHub](https://github.com/luizfdstech)
+# LUIZ FRANCISCO DA SILVA
+**SRE & Engenheiro de Plataforma | Consultor de Soluções Cloud | Autor Publicado**
 
-</p>
-
-<img src="https://shields.io" alt="Autor">
-<img src="https://shields.io" alt="Consultoria">
-<img src="https://shields.io" alt="Microsoft">
+`São Paulo, Brasil` • [E-mail](mailto:luizfds.tech@gmail.com) • [LinkedIn](https://linkedin.com/in/lfdsilva) • [GitHub](https://github.com/luizfdstech)
 
 ---
-## PROFESSIONAL SUMMARY
-> Engenheiro de Confiabilidade de Sites (SRE) com sólida trajetória no suporte a ambientes críticos de escala global na Microsoft, operando sob SLA de 99,9%+ em arquiteturas multi-região. Autor publicado na área de (Área do seu Livro), utilizo minha experiência técnica e visão consultiva para transformar infraestrutura em vantagem competitiva e eficiência financeira (FinOps).
+## RESUMO PROFISSIONAL
+> Engenheiro de Confiabilidade de Sites (SRE) com sólida trajetória no suporte a ambientes críticos de escala global na Microsoft, operando sob SLA de 99,9%+ em arquiteturas multi-região. Autor publicado na área de tecnologia, utilizo minha experiência técnica e visão consultiva para transformar infraestrutura em vantagem competitiva e eficiência financeira (FinOps).
 
-
-**Certifications:** Microsoft `AZ-400`, `AZ-305` (In Progress) • AWS (`Security`, `EKS`) • GCP `Foundations`
-
----
-## TECHNICAL EXPERTISE
-**Cloud & IaC** | Azure, AWS, GCP, Terraform, Bicep, Ansible
-
-**Kubernetes & DevOps** | Kubernetes (AKS/EKS), Docker, Hel, GitHub Actions, Jenkins, ArgoCD
-
-**Programming** | Python, Go, Shell
-
-**Observability & Reliability** | Prometheus, Grafana, Loki, ELK, Datadog, OpenTelemetry, SLO/SLI definition, Error Budgets, Incident Response, RCA, Postmortems
+**Resultados de Impacto:**
+- -60% tempo de provisionamento (IaC) e -35% no MTTR.
+- +15% frequência de deploys (GitOps/Kubernetes).
+- Expertise Multi-cloud: Azure, AWS e GCP.
+  
+Focado em arquitetar soluções que equilibrem inovação tecnológica com estabilidade e redução de custos operacionais para grandes organizações.
 
 ---
-## PROFESSIONAL EXPERIENCE
-**Microsoft** | `Cloud Infrastructure Engineer (SRE)`•`Apr 2024 – Dec 2025`
-- Supported 20+ engineering teams across multi-region production environments (99.9%+ SLA), managing 12+ AKS clusters for mission-critical workloads.
-- Led reliability improvements for a Kubernetes-based platform used across regions.
-- Reduced MTTR by 35% through observability enhancements and incident response optimization.
-- Increased deployment frequency by 15% via GitOps (ArgoCD) and standardized CI/CD pipelines.
-- Implemented IaC (Terraform/Bicep), reducing provisioning time by 60% and eliminating configuration drift.
-- Participated in 24/7 on-call rotation, contributing to high-priority incident response, RCA, and long-term reliability improvements.
-- Automated operational toil using Python and Go to improve platform reliability and engineering efficiency.
+## STACK TECNOLÓGICA & DOMÍNIOS
+
+| Categoria | Tecnologias Chave |
+| :--- | :--- |
+| **Cloud & Provedores** | Microsoft Azure (Expert), AWS, Google Cloud Platform (GCP) |
+| **Infraestrutura como Código** | Terraform, Bicep, CloudFormation, Ansible |
+| **Containerização & Orquestração**| Kubernetes (AKS/EKS), Docker, Helm |
+| **CI/CD & GitOps** | Azure DevOps, GitHub Actions, ArgoCD, GitLab CI |
+| **Observabilidade (SRE)** | Prometheus, Grafana, ELK Stack, OpenTelemetry, Datadog |
+| **Segurança & FinOps** | Checkov, Azure Cost Management, Terragrunt |
 
 ---
-## EDUCATION & LANGUAGES
-**B.S. Software Engineering** • Anhanguera (Expected 2029) • Portuguese (Native) • English (Upper-Intermediate)
+## EXPERIÊNCIA PROFISSIONAL
+
+### Till Mobilidade e Tecnologia | Tech Lead Sênior Cloud & SRE (Consultor Especialista)
+*Mar 2026 – Momento*
+* **Liderança de Plataforma:** Liderança técnica na construção de uma plataforma de IDP (Internal Developer Platform), reduzindo a carga cognitiva de 20+ desenvolvedores.
+* **Arquitetura Estratégica:** Decisão tecnológica sobre stack de containers e malha de serviços, garantindo escalabilidade para suportar milhares de requisições por segundo.
+* **Governança:** Implementação de guardrails de segurança e custos (FinOps) no ciclo de vida do desenvolvimento.
+
+### Microsoft | Engenheiro de Infraestrutura Cloud (SRE)
+*Abr 2024 – Dez 2025*
+* **Escalabilidade Global:** Sustentação de arquiteturas críticas multi-região (SLA 99.9%+) suportando 20+ times de engenharia.
+* **Eficiência Operacional:** Redução de **60% no tempo de provisionamento** através da padronização de IaC com Terraform e Bicep.
+* **Resiliência:** Redução de **35% no MTTR** com a implementação de malhas de observabilidade (Prometheus/Grafana) e resposta automática a incidentes.
+* **Modernização:** Orquestração de workloads críticos em **12+ clusters AKS**, otimizando o consumo de recursos via FinOps.
+---
+## FORMAÇÃO E CERTIFICAÇÕES
+* **Certificações:** AZ-104, AZ-305, AZ-400, AWS EKS Primer, AWS Security Fundamentals, AWS Lambda e GCC Foundations
+* **Graduação:** Engenharia de Software – Anhanguera
+
+## IDIOMAS
+* **Inglês:** Avançado / Fluente (Experiência técnica em ambientes globais).
+* **Português:** Nativo.
+* **Espanhol:** Técnico.
