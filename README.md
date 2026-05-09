@@ -1,52 +1,51 @@
 # LUIZ FRANCISCO DA SILVA
-**SRE & Engenheiro de Plataforma | Consultor de Soluções Cloud | Autor Publicado**
+**SRE & Platform Engineer | Cloud Solutions Consultant | Published Author**
 
-`São Paulo, Brasil` • [E-mail](mailto:luizfds.tech@gmail.com) • [LinkedIn](https://linkedin.com/in/lfdsilva) • [GitHub](https://github.com/luizfdstech)
+`São Paulo, Brazil` • [E-mail](mailto:luizfds.tech@gmail.com) • [LinkedIn](https://linkedin.com/in/lfdsilva) • [GitHub](https://github.com/luizfdstech)
 
 ---
-## RESUMO PROFISSIONAL
-> Engenheiro de Confiabilidade de Sites (SRE) com sólida trajetória no suporte a ambientes críticos de escala global na Microsoft, operando sob SLA de 99,9%+ em arquiteturas multi-região. Autor publicado na área de tecnologia, utilizo minha experiência técnica e visão consultiva para transformar infraestrutura em vantagem competitiva e eficiência financeira (FinOps).
+## PROFESSIONAL SUMMARY
+> **Site Reliability Engineer (SRE)** with a solid track record of supporting global-scale critical environments at **Microsoft**, operating under 99.9%+ SLAs in multi-region architectures. As a **published technical author**, I leverage my engineering expertise and consultative mindset to transform infrastructure into a competitive advantage and financial efficiency **(FinOps)**.
 
-**Resultados de Impacto:**
-- -60% tempo de provisionamento (IaC) e -35% no MTTR.
-- +15% frequência de deploys (GitOps/Kubernetes).
-- Expertise Multi-cloud: Azure, AWS e GCP.
+**Impact Results:**
+- **-60% provisioning** time through IaC and **-35% reduction in MTTR.**
+- **+15% deployment frequency** using GitOps and Kubernetes.
+- **Multi-cloud Expertise:** Azure, AWS, and GCP.
   
-Focado em arquitetar soluções que equilibrem inovação tecnológica com estabilidade e redução de custos operacionais para grandes organizações.
+**Focused on architecting solutions that balance technological innovation with stability and operational cost reduction for large-scale organizations.**
 
 ---
-## STACK TECNOLÓGICA & DOMÍNIOS
-
-| Categoria | Tecnologias Chave |
+## TECH STACK & DOMAINS
+| Category | Key Technologies |
 | :--- | :--- |
-| **Cloud & Provedores** | Microsoft Azure (Expert), AWS, Google Cloud Platform (GCP) |
-| **Infraestrutura como Código** | Terraform, Bicep, CloudFormation, Ansible |
-| **Containerização & Orquestração**| Kubernetes (AKS/EKS), Docker, Helm |
+| **Cloud & Providers** | Microsoft Azure (Expert), AWS, Google Cloud Platform (GCP) |
+| **Infrastructure as Code** | Terraform, Bicep, CloudFormation, Ansible |
+| **Containerization & Orchestration**| Kubernetes (AKS/EKS), Docker, Helm |
 | **CI/CD & GitOps** | Azure DevOps, GitHub Actions, ArgoCD, GitLab CI |
-| **Observabilidade (SRE)** | Prometheus, Grafana, ELK Stack, OpenTelemetry, Datadog |
-| **Segurança & FinOps** | Checkov, Azure Cost Management, Terragrunt |
+| **Observability (SRE)** | Prometheus, Grafana, ELK Stack, OpenTelemetry, Datadog |
+| **Security & FinOps** | Checkov, Azure Cost Management, Terragrunt |
 
 ---
 ## EXPERIÊNCIA PROFISSIONAL
 
-### Till Mobilidade e Tecnologia | Tech Lead Sênior Cloud & SRE (Consultor Especialista)
-*Mar 2026 – Momento*
-* **Liderança de Plataforma:** Liderança técnica na construção de uma plataforma de IDP (Internal Developer Platform), reduzindo a carga cognitiva de 20+ desenvolvedores.
-* **Arquitetura Estratégica:** Decisão tecnológica sobre stack de containers e malha de serviços, garantindo escalabilidade para suportar milhares de requisições por segundo.
-* **Governança:** Implementação de guardrails de segurança e custos (FinOps) no ciclo de vida do desenvolvimento.
+### Till Mobilidade e Tecnologia | Senior Tech Lead, Cloud & SRE (Subject Matter Expert)
+*Mar 2026 – Present*
+* **Platform Leadership:** Technical leadership in building an Internal Developer Platform (IDP), reducing the cognitive load for 20+ developers.
+* **Strategic Architecture:** Technical decision-making regarding container stacks and service mesh, ensuring scalability to support thousands of requests per second.
+* **Governance:** Implementation of security and cost guardrails (FinOps) throughout the software development life cycle (SDLC).
 
-### Microsoft | Engenheiro de Infraestrutura Cloud (SRE)
-*Abr 2024 – Dez 2025*
-* **Escalabilidade Global:** Sustentação de arquiteturas críticas multi-região (SLA 99.9%+) suportando 20+ times de engenharia.
-* **Eficiência Operacional:** Redução de **60% no tempo de provisionamento** através da padronização de IaC com Terraform e Bicep.
-* **Resiliência:** Redução de **35% no MTTR** com a implementação de malhas de observabilidade (Prometheus/Grafana) e resposta automática a incidentes.
-* **Modernização:** Orquestração de workloads críticos em **12+ clusters AKS**, otimizando o consumo de recursos via FinOps.
+### Microsoft | Cloud Infrastructure Engineer (SRE)
+*Apr 2024 – Dec 2025*
+* **Global Scalability:** Supported critical multi-region architectures (99.9%+ SLA) empowering 20+ engineering teams.
+* **Operational Efficiency:** Achieved a **60% reduction in provisioning time** by leveraging IaC standardization with Terraform and Bicep.
+* **Resiliency:** Drove a **35% MTTR reduction** through the implementation of observability stacks (Prometheus/Grafana) and automated incident response.
+* **Modernization:** Orchestrated critical workloads across **12+ AKS clusters**, optimizing resource consumption via FinOps strategies.
 ---
-## FORMAÇÃO E CERTIFICAÇÕES
-* **Certificações:** AZ-104, AZ-305, AZ-400, AWS EKS Primer, AWS Security Fundamentals, AWS Lambda e GCC Foundations
-* **Graduação:** Engenharia de Software – Anhanguera
+## EDUCATION & CERTIFICATIONS
+* **Certifications:** AZ-104, AZ-305, AZ-400, AWS EKS Primer, AWS Security Fundamentals, AWS Lambda, and GCC Foundations.
+* **Graduação:** Bachelor of Science in Software Engineering – Anhanguera University
 
-## IDIOMAS
-* **Inglês:** Avançado / Fluente (Experiência técnica em ambientes globais).
-* **Português:** Nativo.
-* **Espanhol:** Técnico.
+## LANGUAGES
+* **English:** Fluent / Full Professional Proficiency (Technical experience in global environments).
+* **Portuguese:** Native.
+* **Spanish:** Limited Working Proficiency (Technical reading/writing).
