@@ -26,7 +26,7 @@
 | **Security & FinOps** | Checkov, Azure Cost Management, Terragrunt |
 
 ---
-## EXPERIÊNCIA PROFISSIONAL
+## WORK EXPERIENCE 
 
 ### Till Mobilidade e Tecnologia | Senior Tech Lead, Cloud & SRE (Subject Matter Expert)
 *Mar 2026 – Present*
@@ -43,7 +43,7 @@
 ---
 ## EDUCATION & CERTIFICATIONS
 * **Certifications:** AZ-104, AZ-305, AZ-400, AWS EKS Primer, AWS Security Fundamentals, AWS Lambda, and GCC Foundations.
-* **Graduação:** Bachelor of Science in Software Engineering – Anhanguera University
+* **Education:** Bachelor of Science in Software Engineering – Anhanguera University
 
 ## LANGUAGES
 * **English:** Fluent / Full Professional Proficiency (Technical experience in global environments).
