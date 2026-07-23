@@ -1,5 +1,5 @@
 # LUIZ FRANCISCO DA SILVA
-**SRE & Platform Engineer | Cloud Solutions Consultant | Published Author**
+**Platform Engineering Specialist | Founder @ Mestre da Nuvem | Ex-Microsoft SRE | Multi-Cloud (Azure • AWS • GCP) | Kubernetes • Terraform • CI/CD**
 
 `São Paulo, Brazil` • [E-mail](mailto:luizfds.tech@gmail.com) • [LinkedIn](https://linkedin.com/in/lfdsilva) • [GitHub](https://github.com/luizfdstech)
 
