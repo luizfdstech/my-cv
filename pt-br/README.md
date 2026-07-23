@@ -27,7 +27,7 @@ Focado em arquitetar soluções que equilibrem inovação tecnológica com estab
 ---
 ## EXPERIÊNCIA PROFISSIONAL
 
-### Till Mobilidade e Tecnologia | Principal Cloud & Platform Engineer (Contrato)
+### Till Mobilidade e Tecnologia | Principal Cloud & Platform Engineer
 *Fev 2026 – Julho 2026*
 * **Liderança de Plataforma:** Liderança técnica na construção de uma plataforma de IDP (Internal Developer Platform), reduzindo a carga cognitiva de 20+ desenvolvedores.
 * **Arquitetura Estratégica:** Decisão tecnológica sobre stack de containers e malha de serviços, garantindo escalabilidade para suportar milhares de requisições por segundo.
