@@ -29,13 +29,13 @@ Focado em arquitetar soluções que equilibrem inovação tecnológica com estab
 ---
 ## EXPERIÊNCIA PROFISSIONAL
 
-### Till Mobilidade e Tecnologia | Tech Lead Sênior Cloud & SRE (Consultor Especialista)
-*Mar 2026 – Momento*
+### Till Mobilidade e Tecnologia | Principal Cloud & Platform Engineer (Contrato)
+*Fev 2026 – Julho 2026*
 * **Liderança de Plataforma:** Liderança técnica na construção de uma plataforma de IDP (Internal Developer Platform), reduzindo a carga cognitiva de 20+ desenvolvedores.
 * **Arquitetura Estratégica:** Decisão tecnológica sobre stack de containers e malha de serviços, garantindo escalabilidade para suportar milhares de requisições por segundo.
 * **Governança:** Implementação de guardrails de segurança e custos (FinOps) no ciclo de vida do desenvolvimento.
 
-### Microsoft | Engenheiro de Infraestrutura Cloud (SRE)
+### Microsoft | Cloud & Platform Engineer | SRE
 *Abr 2024 – Dez 2025*
 * **Escalabilidade Global:** Sustentação de arquiteturas críticas multi-região (SLA 99.9%+) suportando 20+ times de engenharia.
 * **Eficiência Operacional:** Redução de **60% no tempo de provisionamento** através da padronização de IaC com Terraform e Bicep.
@@ -43,7 +43,7 @@ Focado em arquitetar soluções que equilibrem inovação tecnológica com estab
 * **Modernização:** Orquestração de workloads críticos em **12+ clusters AKS**, otimizando o consumo de recursos via FinOps.
 ---
 ## FORMAÇÃO E CERTIFICAÇÕES
-* **Certificações:** AZ-104, AZ-305, AZ-400, AWS EKS Primer, AWS Security Fundamentals, AWS Lambda e GCC Foundations
+* **Certificações:** AZ-104, AZ-305, AZ-400, AWS EKS Primer, AWS Security Fundamentals, AWS Lambda e GCP Cloud Fundaments
 * **Graduação:** Engenharia de Software – Anhanguera
 
 ## IDIOMAS
