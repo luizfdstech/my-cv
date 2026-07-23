@@ -11,13 +11,13 @@
 - **-60% provisioning** time through IaC and **-35% reduction in MTTR.**
 - **+15% deployment frequency** using GitOps and Kubernetes.
 - **Multi-cloud Expertise:** Azure, AWS, and GCP.
-  
+
 **Focused on architecting solutions that balance technological innovation with stability and operational cost reduction for large-scale organizations.**
 
 ---
 ### TECH STACK & DOMAINS
 
-* **Cloud & Providers:** Microsoft Azure (Expert), AWS, Google Cloud Platform (GCP)
+* **Cloud & Providers:** Microsoft Azure, AWS, Google Cloud Platform
 * **Infrastructure as Code:** Terraform, Bicep, CloudFormation, Ansible
 * **Containerization & Orchestration:** Kubernetes (AKS/EKS), Docker, Helm
 * **CI/CD & GitOps:** Azure DevOps, GitHub Actions, ArgoCD, GitLab CI
