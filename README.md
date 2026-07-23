@@ -29,10 +29,10 @@
 
 ### Till Mobilidade e Tecnologia | Principal Cloud & Platform Engineer (Subject Matter Expert)
 *Feb 2026 – July 2026*
-* **Platform Modernization:** Led the migration and stabilization of legacy infrastructure into a secure, containerized architecture using Kubernetes and Cloud-Native best practices.
-* **Automation & Autonomy:** Designed and implemented standard CI/CD blueprints and Infrastructure as Code (IaC) with Terraform, reducing application deployment cycle times and empowering development teams with self-service capabilities.
-* **Resilience & Observability:** Established foundational SRE principles by configuring centralized logging, alerting matrices, and proactive monitoring dashboards to improve overall system visibility.
-* **Strategic Advisory:** Partnered directly with engineering leadership to define technical roadmaps, mitigate architectural bottlenecks, and optimize cloud spend.
+* **Platform Modernization:** Migrated legacy infrastructure to containerized Kubernetes architectures using Cloud-Native best practices.
+* **Automation & Autonomy:** Designed standard CI/CD and Terraform IaC blueprints, accelerating deployments and enabling developer self-service.
+* **Resilience & Observability:** Implemented SRE principles through centralized logging, alerting matrices, and proactive monitoring dashboards.
+* **Strategic Advisory:** Partnered with engineering leadership to define technical roadmaps, resolve bottlenecks, and optimize cloud spend.
 
 ### Microsoft | Cloud & Platform Engineer | SRE
 *Apr 2024 – Dec 2025*
