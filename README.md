@@ -28,13 +28,13 @@
 ---
 ## WORK EXPERIENCE 
 
-### Till Mobilidade e Tecnologia | Senior Tech Lead, Cloud & SRE (Subject Matter Expert)
+### Till Mobilidade e Tecnologia | Principal Cloud & Platform Engineer (Subject Matter Expert)
 *Mar 2026 – Present*
 * **Platform Leadership:** Technical leadership in building an Internal Developer Platform (IDP), reducing the cognitive load for 20+ developers.
 * **Strategic Architecture:** Technical decision-making regarding container stacks and service mesh, ensuring scalability to support thousands of requests per second.
 * **Governance:** Implementation of security and cost guardrails (FinOps) throughout the software development life cycle (SDLC).
 
-### Microsoft | Cloud Infrastructure Engineer (SRE)
+### Microsoft | Cloud & Platform Engineer | SRE
 *Apr 2024 – Dec 2025*
 * **Global Scalability:** Supported critical multi-region architectures (99.9%+ SLA) empowering 20+ engineering teams.
 * **Operational Efficiency:** Achieved a **60% reduction in provisioning time** by leveraging IaC standardization with Terraform and Bicep.
@@ -42,7 +42,7 @@
 * **Modernization:** Orchestrated critical workloads across **12+ AKS clusters**, optimizing resource consumption via FinOps strategies.
 ---
 ## EDUCATION & CERTIFICATIONS
-* **Certifications:** AZ-104, AZ-305, AZ-400, AWS EKS Primer, AWS Security Fundamentals, AWS Lambda, and GCC Foundations.
+* **Certifications:** AZ-104, AZ-305, AZ-400, AWS EKS Primer, AWS Security Fundamentals, AWS Lambda, and GCP Cloud Fundaments.
 * **Education:** Bachelor of Science in Software Engineering – Anhanguera University
 
 ## LANGUAGES
