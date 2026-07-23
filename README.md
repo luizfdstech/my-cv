@@ -27,7 +27,7 @@
 ---
 ## WORK EXPERIENCE 
 
-### Till Mobilidade e Tecnologia | Principal Cloud & Platform Engineer (Subject Matter Expert)
+### Till Mobilidade e Tecnologia | Principal Cloud & Platform Engineer
 *Feb 2026 – July 2026*
 * **Platform Modernization:** Migrated legacy infrastructure to containerized Kubernetes architectures using Cloud-Native best practices.
 * **Automation & Autonomy:** Designed standard CI/CD and Terraform IaC blueprints, accelerating deployments and enabling developer self-service.
