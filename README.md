@@ -29,7 +29,7 @@
 ## WORK EXPERIENCE 
 
 ### Till Mobilidade e Tecnologia | Principal Cloud & Platform Engineer (Subject Matter Expert)
-*Mar 2026 – Present*
+*Feb 2026 – July 2026*
 * **Platform Leadership:** Technical leadership in building an Internal Developer Platform (IDP), reducing the cognitive load for 20+ developers.
 * **Strategic Architecture:** Technical decision-making regarding container stacks and service mesh, ensuring scalability to support thousands of requests per second.
 * **Governance:** Implementation of security and cost guardrails (FinOps) throughout the software development life cycle (SDLC).
