@@ -1,5 +1,5 @@
 # LUIZ FRANCISCO DA SILVA
-**SRE & Engenheiro de Plataforma | Consultor de Soluções Cloud | Autor Publicado**
+**Platform Engineering Specialist | Multi-Cloud | Kubernetes • Terraform • CI/CD**
 
 `São Paulo, Brasil` • [E-mail](mailto:luizfds.tech@gmail.com) • [LinkedIn](https://linkedin.com/in/lfdsilva) • [GitHub](https://github.com/luizfdstech)
 
