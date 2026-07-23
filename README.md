@@ -1,5 +1,5 @@
 # LUIZ FRANCISCO DA SILVA
-**Platform Engineering Specialist | Founder Mestre da Nuvem | Multi-Cloud | Kubernetes • Terraform • CI/CD**
+**Platform Engineering Specialist | Multi-Cloud | Kubernetes • Terraform • CI/CD**
 
 `São Paulo, Brazil` • [E-mail](mailto:luizfds.tech@gmail.com) • [LinkedIn](https://linkedin.com/in/lfdsilva) • [GitHub](https://github.com/luizfdstech)
 
