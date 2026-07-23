@@ -15,24 +15,24 @@
 **Focused on architecting solutions that balance technological innovation with stability and operational cost reduction for large-scale organizations.**
 
 ---
-## TECH STACK & DOMAINS
-| Category | Key Technologies |
-| :--- | :--- |
-| **Cloud & Providers** | Microsoft Azure (Expert), AWS, Google Cloud Platform (GCP) |
-| **Infrastructure as Code** | Terraform, Bicep, CloudFormation, Ansible |
-| **Containerization & Orchestration**| Kubernetes (AKS/EKS), Docker, Helm |
-| **CI/CD & GitOps** | Azure DevOps, GitHub Actions, ArgoCD, GitLab CI |
-| **Observability (SRE)** | Prometheus, Grafana, ELK Stack, OpenTelemetry, Datadog |
-| **Security & FinOps** | Checkov, Azure Cost Management, Terragrunt |
+### TECH STACK & DOMAINS
+
+* **Cloud & Providers:** Microsoft Azure (Expert), AWS, Google Cloud Platform (GCP)
+* **Infrastructure as Code:** Terraform, Bicep, CloudFormation, Ansible
+* **Containerization & Orchestration:** Kubernetes (AKS/EKS), Docker, Helm
+* **CI/CD & GitOps:** Azure DevOps, GitHub Actions, ArgoCD, GitLab CI
+* **Observability (SRE):** Prometheus, Grafana, ELK Stack, OpenTelemetry, Datadog
+* **Security & FinOps:** Checkov, Azure Cost Management, Terragrunt
 
 ---
 ## WORK EXPERIENCE 
 
 ### Till Mobilidade e Tecnologia | Principal Cloud & Platform Engineer (Subject Matter Expert)
 *Feb 2026 – July 2026*
-* **Platform Leadership:** Technical leadership in building an Internal Developer Platform (IDP), reducing the cognitive load for 20+ developers.
-* **Strategic Architecture:** Technical decision-making regarding container stacks and service mesh, ensuring scalability to support thousands of requests per second.
-* **Governance:** Implementation of security and cost guardrails (FinOps) throughout the software development life cycle (SDLC).
+* **Platform Modernization:** Led the migration and stabilization of legacy infrastructure into a secure, containerized architecture using Kubernetes and Cloud-Native best practices.
+* **Automation & Autonomy:** Designed and implemented standard CI/CD blueprints and Infrastructure as Code (IaC) with Terraform, reducing application deployment cycle times and empowering development teams with self-service capabilities.
+* **Resilience & Observability:** Established foundational SRE principles by configuring centralized logging, alerting matrices, and proactive monitoring dashboards to improve overall system visibility.
+* **Strategic Advisory:** Partnered directly with engineering leadership to define technical roadmaps, mitigate architectural bottlenecks, and optimize cloud spend.
 
 ### Microsoft | Cloud & Platform Engineer | SRE
 *Apr 2024 – Dec 2025*
