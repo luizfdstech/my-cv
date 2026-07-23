@@ -17,14 +17,12 @@ Focado em arquitetar soluções que equilibrem inovação tecnológica com estab
 ---
 ## STACK TECNOLÓGICA & DOMÍNIOS
 
-| Categoria | Tecnologias Chave |
-| :--- | :--- |
-| **Cloud & Provedores** | Microsoft Azure (Expert), AWS, Google Cloud Platform (GCP) |
-| **Infraestrutura como Código** | Terraform, Bicep, CloudFormation, Ansible |
-| **Containerização & Orquestração**| Kubernetes (AKS/EKS), Docker, Helm |
-| **CI/CD & GitOps** | Azure DevOps, GitHub Actions, ArgoCD, GitLab CI |
-| **Observabilidade (SRE)** | Prometheus, Grafana, ELK Stack, OpenTelemetry, Datadog |
-| **Segurança & FinOps** | Checkov, Azure Cost Management, Terragrunt |
+* **Cloud & Providers:** Microsoft Azure (Expert), AWS, Google Cloud Platform (GCP)
+* **Infrastructure as Code (IaC):** Terraform, Bicep, CloudFormation, Ansible
+* **Containerization & Orchestration:** Kubernetes (AKS/EKS), Docker, Helm
+* **CI/CD & GitOps:** Azure DevOps, GitHub Actions, ArgoCD, GitLab CI
+* **Observability (SRE):** Prometheus, Grafana, ELK Stack, OpenTelemetry, Datadog
+* **Security & FinOps:** Checkov, Azure Cost Management, Terragrunt
 
 ---
 ## EXPERIÊNCIA PROFISSIONAL
